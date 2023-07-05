@@ -1,2 +1,2 @@
-# BlueStars.github.io
+# BlueStars.com
 BlueStars Helper Link
